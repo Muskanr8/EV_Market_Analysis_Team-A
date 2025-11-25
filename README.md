@@ -27,7 +27,7 @@ The analysis identified **6 market clusters**, showing:
 - Low-readiness areas  
 
 ## Report
-[https://docs.google.com/document/d/1YjUarcLmEepkvTY9Z_heqsLRMkn3kqlL/edit?usp=drive_link&ouid=102108597003723776345&rtpof=true&sd=true]
+https://docs.google.com/document/d/1YjUarcLmEepkvTY9Z_heqsLRMkn3kqlL/edit?usp=drive_link&ouid=102108597003723776345&rtpof=true&sd=true
 
 ## Prepared By
 Sub-Group A
